@@ -14,6 +14,8 @@ Wiki/Documentation
 
 decide to add documentation in a google drive or make a wiki and use here.
 
+I personally would like to keep documentation internally since we'd likely have to link to other groups's work such as their art folder and such. Much easier imo to link around in google docs.
+
 Credits
 =======
 
