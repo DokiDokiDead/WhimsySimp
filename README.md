@@ -1,4 +1,3 @@
-
 WhimySimp Game Repository
 =========================
 
@@ -22,14 +21,12 @@ Ren'Py release used for development: https://www.renpy.org/release/7.4.7
 QuickStart guide for Ren'Py: https://www.renpy.org/doc/html/quickstart.html
 Ren'Py Reference Manual: https://www.renpy.org/doc/html/
 
-For access to internal developer notes and discord, message one of the project managers.
+For access to internal developer notes and Discord, message one of the project managers.
 
 Credits
 =======
 
-put credits here. 
-
-https://github.com/Laytoncie      - Project Owner/Developer
+https://github.com/Laytoncie      - Lead Developer
 https://github.com/git-dead       - Project Owner/Developer
 https://github.com/Renaulde       - Project Owner/Developer
 https://github.com/Kaosarbitrium  - Project Developer
