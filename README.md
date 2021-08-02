@@ -9,7 +9,7 @@ Installation
 Describe how to install renpy and/or any other tools we may use in the future.
 
 
-Download Ren'Py version 7.4.7 from https://www.renpy.org/release/7.4.7 for your opperating system. (Game is being developed for Windwos first due to it's popularity, it will be ported to other Operating Systems later.)
+Download Ren'Py version 7.4.7 from https://www.renpy.org/release/7.4.7 for your opperating system. (Game is being developed for Windows first due to it's popularity, it will be ported to other Operating Systems later.)
 
 Download the WhimsySimp Game Repository from https://github.com/DokiDokiDead/WhimsySimp.git and add it to your Ren'Py installation folder(Example: D:\Program Files\Ren'Py\renpy-7.4.7-sdk ). 
 
